@@ -5,8 +5,8 @@
 
 # Site
 title: NexT
-subtitle:
-description: 'zyznull 的博客'
+subtitle: subtitle
+description: zyznull 的博客
 author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -14,8 +14,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://zyznull.github.io
-baseurl: https://zyznull.github.io
+url:
+baseurl: 
 permalink: pretty
 
 # Pagination
