@@ -1,17 +1,9 @@
-﻿
+﻿# github + jekyll 建站备份
 ---
 
-layout:     post                  #使用的布局（不需要改）
-title:      github + jekyll 建站备份               # 标题 
-subtitle:    #副标题
-date:       2018-11-22              # 时间
-author:     zyz                      # 作者
-catalog: true                       # 是否归档
-tags:                               #标签
-    - 技术
+Tags ：技术
 
 ---
-
 
 折腾了一天多，终于搭好了自己的博客，网上关于如何搭建博客的资料很详细了。这里做个简单的备份。
 使用github + jekyll建立网站。
