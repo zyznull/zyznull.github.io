@@ -1,7 +1,8 @@
-﻿# github + jekyll 建站备份
----
-
-Tags ：技术
+﻿---
+title: github+jekyll建站备份
+catalog: true
+Tags ：
+    -技术
 
 ---
 
