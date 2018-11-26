@@ -1,8 +1,14 @@
-﻿---
-title: github+jekyll建站备份
-catalog: true
-Tags ：
-    -技术
+﻿
+---
+layout:     post # 使用的布局（不需要改）
+title:      github+jekyll建站备份# 标题 
+subtitle:   #副标题
+date:       2018-11-22  # 时间
+author:     zyz  # 作者
+header-img: #这篇文章标题背景图片
+catalog: true  # 是否归档
+tags:        #标签
+        - 技术
 
 ---
 
