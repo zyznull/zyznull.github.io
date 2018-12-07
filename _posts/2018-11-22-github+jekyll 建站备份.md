@@ -1,5 +1,6 @@
 ﻿
 ---
+
 layout:     post # 使用的布局（不需要改）
 title:      github+jekyll建站备份# 标题 
 subtitle:   #副标题
