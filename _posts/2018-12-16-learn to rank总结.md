@@ -1,7 +1,7 @@
 ﻿---
 
 layout:     post # 使用的布局（不需要改）
-title:      learn to rank总结# 标题 
+title:      learn to rank总结
 subtitle:   #副标题
 date:       2018-12-16  # 时间
 author:     zyz  # 作者
