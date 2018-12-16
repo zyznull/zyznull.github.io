@@ -1,4 +1,4 @@
-﻿---
+---
 
 layout:     post # 使用的布局（不需要改）
 title:      learn to rank总结
